@@ -7,7 +7,7 @@
 <a href="#"><img title="SULTAN" src="https://img.shields.io/badge/SULTHAN-BOT-yellowgreen"></a>
 </p>
   <p align="center">
-<a href="https://github.com/nijin-husni"><img title="Author" src="https://img.shields.io/badge/Author-Husnijin-/MAALUTTY_V3?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/nijin-husni"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ABHINAV-blue"></a>
 </p>
 </div>
 <p align="center">
