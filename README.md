@@ -1,4 +1,5 @@
- <img src="https://i.ibb.co/Z8Z7pv7/20220101-153750.png" alt="google-font" border="0"></a> width="250" height="250" />
+ <img src="https://i.ibb.co/Z8Z7pv7/20220101-153750.png" width="250" height="250"></a>
+
 <div align="center">
         <img src="https://i.ibb.co/HpN1BZs/maalutty.jpg" alt="JPG" width="250" height="250"/>
 </p>
