@@ -1,7 +1,7 @@
  <img src="https://i.ibb.co/RvGKqGG/IMG-20220101-154556.png"></a>
 
 <div align="center">
-        <img src="https://i.ibb.co/HpN1BZs/maalutty.jpg" alt="JPG" width="300" height="500"/>
+        <img src="https://i.ibb.co/HpN1BZs/maalutty.jpg" alt="JPG" width="500" height="500"/>
 </p>
 
 <a href="#"><img title="MAALUTTY_V3" src="https://img.shields.io/badge/MAALUTTY_V3-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
