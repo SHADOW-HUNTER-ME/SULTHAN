@@ -4,7 +4,7 @@
         <img src="https://i.ibb.co/HpN1BZs/maalutty.jpg" alt="JPG" width="250" height="255"/>
 </p>
 
-<a href="#"><img title="SULTAN" src="https://img.shields.io/badge/MAALUTTY_V3-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="SULTAN" src="https://img.shields.io/badge/SULTHAN-BOT-yellowgreen"></a>
 </p>
   <p align="center">
 <a href="https://github.com/nijin-husni"><img title="Author" src="https://img.shields.io/badge/Author-Husnijin-/MAALUTTY_V3?color=blue&style=for-the-badge&logo=whatsapp"></a>
