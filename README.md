@@ -7,11 +7,11 @@
 <a href="#"><img title="SULTAN" src="https://img.shields.io/badge/SULTHAN-BOT-yellowgreen"></a>
 </p>
   <p align="center">
-<a href="https://github.com/nijin-husni"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ABHINAV-blue"></a>
+<a href="https://github.com/user5685"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ABHINAV-blue"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to make it public
+Project created by <a href="https://github.com/user5685">ABHINAV</a> to make it public
     <br>
        | © |
         Reserved |
