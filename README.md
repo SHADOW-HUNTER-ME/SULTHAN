@@ -20,7 +20,7 @@ Project created by <a href="https://github.com/user5685">ABHINAV</a> to make it 
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=redhat.svg&icon_color=%23958E8E&title=Vivers&edge_flat=false)
 
-## Setup
+## connecting to whatsapp
 <div align="center">
 
   ### Simple Method
@@ -30,21 +30,20 @@ Project created by <a href="https://github.com/user5685">ABHINAV</a> to make it 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nijin-husni/MAALUTTY_V3) 
  
-### The Hard Method
+### difficult method 
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/nijin-husni/MAALUTTY_V3
+$ git clone https://github.com/User5685/SULTHAN
 $ cd MAALUTTY_V3
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node maalutty.js
+$ node maalutty.js   
 ```
-      
 ```js
-SETUP
-$ git clone https://github.com/nijin-husni/MAALUTTY_V3
+CONNECTING TO WHATSAPP
+$ git clone https://github.com/User5685/SULTHAN
 $ cd MAALUTTY_V3
 $ npm i
 $ node maalutty.js
@@ -97,18 +96,6 @@ This is an open source project, you are responsible for everything you do.
 Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
-
-## Developers
-  <div align="center">
-    
-  [![Ameen-ser](https://github.com/Ameen-ser.png?size=100)](https://github.com/Ameen-ser) | [![nijin-husni](https://github.com/nijin-husni.png?size=100)](https://github.com/AI-VIKI) | [![Luciferking](https://github.com/luciferking1.png?size=100)](https://github.com/luciferking1) 
-----|----|----
-[Ameen-ser](https://github.com/Ameen-ser) | [nijin-husni](https://github.com/nijin-husni) | [luciferking1](https://github.com/luciferking1) 
-Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Developer, Base, Bug Fixes, Modules
-  </div>
-    
-    
-
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
