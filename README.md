@@ -18,7 +18,7 @@ Project created by <a href="https://github.com/user5685">ABHINAV</a> to make it 
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nijin-husni/MAALUTTY_V3&title=MAALUTTY_V3%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=redhat.svg&icon_color=%23958E8E&title=Vivers&edge_flat=false)
 
 ## Setup
 <div align="center">
