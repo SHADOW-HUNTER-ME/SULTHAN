@@ -1,10 +1,10 @@
 /* Copyright (C) 2020 Yusuf Usta.
 Licensed under the  GPL-3.0 License;
-you may not use this file except in compliance with the License.
-WhatsAsena - Yusuf Usta
+re edited-by nijin husni
+Maalutty-nijin-husni
 */
 
-const f####"s = require("fs");
+const fs = require("fs");
 const path = require("path");
 const events = require("./events");
 const chalk = require('chalk');
@@ -138,12 +138,12 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('sulthan is Working😍 ' + config.WORKTYPE + ' 𝚗𝚘𝚠 🍃'));
+            chalk.green.bold('Maalutty is Working😍 ' + config.WORKTYPE + ' 𝚗𝚘𝚠 🍃'));
           if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
                 var commits = await git.log([config.BRANCH + '..origin/' + config.BRANCH]);
                 if (commits.total === 0) {
-                    await conn.sendMessage(conn.user.jid,Lang.UPDATE, MessageType.text);    
+                    await conn.sendMessage(conn.user.jid, fs.readFileSync("./photo/maalutty.jpg"), MessageType.image, { caption: `*ʜᴇʏ ʙʀᴏ ᴍᴀᴀʟᴜᴛᴛʏ_ᴠ3 ᴡᴏʀᴋɪɴɢ ` + config.WORKTYPE + ` 🥂* \n\n*ᴛʜᴀɴᴋʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴍᴀᴀʟᴜᴛᴛʏ_ᴠ3🥂*`});
                 } else {
                     var degisiklikler = Lang.NEW_UPDATE;
                     commits['all'].map(
@@ -153,7 +153,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     );
                     await conn.sendMessage(
                         conn.user.jid,
-                        '*◄━⦁💝sulthan💝⦁━►*' + degisiklikler + '```', MessageType.text
+                        '*◄━⦁💝 MAALUTTY_V3💝⦁━►*' + degisiklikler + '```', MessageType.text
                     ); 
                 } 
           }
@@ -161,7 +161,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
     setInterval(async () => { 
         var getGMTh = new Date().getHours()
         var getGMTm = new Date().getMinutes()
-        var ansk = 'https://gist.github.com/Luciferking1/daf327812f961f07e479fb7bba6c9546/raw'
+        var ansk = 'https://gist.githubusercontent.com/nijin-husni/6b2380925622a31745dedec7e3c0a5a0/raw'
          
         while (getGMTh == 9 && getGMTm == 01) {
             const {data} = await axios(ansk)
@@ -171,7 +171,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
             if (config.LANG == 'EN') announce = sken
             if (config.LANG == 'ML') announce = skml
             
-            return await conn.sendMessage(conn.user.jid, '*SULTHAN ʙᴏᴛ ᴘᴏᴡᴇʀ💝*' , MessageType.text);
+            return await conn.sendMessage(conn.user.jid, '*[ DAILY ANNOUNCEMENTS ]*\n\n' + announce, MessageType.text);
         }
 		while (getGMTh == 13 && getGMTm == 01) {
             const {data} = await axios(ansk)
@@ -181,7 +181,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
             if (config.LANG == 'EN') announce = sken
             if (config.LANG == 'ML') announce = skml
             
-            return await conn.sendMessage(conn.user.jid, '*SULTHAN ʙᴏᴛ ᴘᴏᴡᴇʀ💝*' , MessageType.text);
+            return await conn.sendMessage(conn.user.jid, '*[ DAILY ANNOUNCEMENTS ]*\n\n' + announce, MessageType.text);
         }
 		while (getGMTh == 17 && getGMTm == 01) {
             const {data} = await axios(ansk)
@@ -191,7 +191,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
             if (config.LANG == 'EN') announce = sken
             if (config.LANG == 'ML') announce = skml
             
-            return await conn.sendMessage(conn.user.jid, '*SULTHAN ʙᴏᴛ ᴘᴏᴡᴇʀ💝*' , MessageType.text);
+            return await conn.sendMessage(conn.user.jid, '*[ DAILY ANNOUNCEMENTS ]*\n\n' + announce, MessageType.text);
         } 
 		while (getGMTh == 21 && getGMTm == 01) {
             const {data} = await axios(ansk)
@@ -201,7 +201,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
             if (config.LANG == 'EN') announce = sken
             if (config.LANG == 'ML') announce = skml
             
-            return await conn.sendMessage(conn.user.jid, '*SULTHAN ʙᴏᴛ ᴘᴏᴡᴇʀ💝*' , MessageType.text);
+            return await conn.sendMessage(conn.user.jid, '*[ DAILY ANNOUNCEMENTS ]*\n\n' + announce, MessageType.text);
         }
     }, 50000);//Thanks to souravkl11 
 
@@ -336,8 +336,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ SULTHAN~______~*' +
-                                    '\n*SULTHAN ERROR💌' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ MAALUTTY_V3 ~______~*' +
+                                    '\n*MAALUTTY ERROR🔰' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
                             }
@@ -363,4 +363,4 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
     }
 }
 
-whatsAsena();"
+whatsAsena();
