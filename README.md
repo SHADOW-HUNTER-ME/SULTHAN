@@ -37,7 +37,7 @@ GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
 $ git clone https://github.com/SHADOW-HUNTER-ME/SULTHAN
-$ cd MAALUTTY_V3
+$ cd SULTHAN
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node maalutty.js   
@@ -45,7 +45,7 @@ $ node maalutty.js
 ```js
 CONNECTING TO WHATSAPP
 $ git clone https://github.com/SHADOW-HUNTER-ME/SULTHAN
-$ cd MAALUTTY_V3
+$ cd SULTHAN
 $ npm i
 $ node maalutty.js
 ```
