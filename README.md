@@ -29,7 +29,7 @@ Project created by <a href="https://github.com/SHADOW-HUNTER-ME">ABHINAV</a> to 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTYV3-QR)
   
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nijin-husni/MAALUTTY_V3) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHADOW-HUNTER-ME/SULTHAN) 
  
 ### difficult method 
 ```js
