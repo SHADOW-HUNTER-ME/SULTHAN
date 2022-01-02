@@ -138,7 +138,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('Maalutty is Working😍 ' + config.WORKTYPE + ' 𝚗𝚘𝚠 🍃'));
+            chalk.green.bold('sulthan is Working😍 ' + config.WORKTYPE + ' 𝚗𝚘𝚠 🍃'));
           if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
                 var commits = await git.log([config.BRANCH + '..origin/' + config.BRANCH]);
@@ -153,7 +153,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     );
                     await conn.sendMessage(
                         conn.user.jid,
-                        '*◄━⦁💝 MAALUTTY_V3💝⦁━►*' + degisiklikler + '```', MessageType.text
+                        '*◄━⦁💝sulthan💝⦁━►*' + degisiklikler + '```', MessageType.text
                     ); 
                 } 
           }
@@ -171,7 +171,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
             if (config.LANG == 'EN') announce = sken
             if (config.LANG == 'ML') announce = skml
             
-            return await conn.sendMessage(conn.user.jid, '*ᴍᴀᴀʟᴜᴛᴛʏ_ᴠ3 ʙᴏᴛ ᴘᴏᴡᴇʀ💝*' , MessageType.text);
+            return await conn.sendMessage(conn.user.jid, '*SULTHAN ʙᴏᴛ ᴘᴏᴡᴇʀ💝*' , MessageType.text);
         }
 		while (getGMTh == 13 && getGMTm == 01) {
             const {data} = await axios(ansk)
@@ -181,7 +181,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
             if (config.LANG == 'EN') announce = sken
             if (config.LANG == 'ML') announce = skml
             
-            return await conn.sendMessage(conn.user.jid, '*ᴍᴀᴀʟᴜᴛᴛʏ_ᴠ3 ʙᴏᴛ ᴘᴏᴡᴇʀ💝*' , MessageType.text);
+            return await conn.sendMessage(conn.user.jid, '*SULTHAN ʙᴏᴛ ᴘᴏᴡᴇʀ💝*' , MessageType.text);
         }
 		while (getGMTh == 17 && getGMTm == 01) {
             const {data} = await axios(ansk)
@@ -191,7 +191,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
             if (config.LANG == 'EN') announce = sken
             if (config.LANG == 'ML') announce = skml
             
-            return await conn.sendMessage(conn.user.jid, '*ᴍᴀᴀʟᴜᴛᴛʏ_ᴠ3 ʙᴏᴛ ᴘᴏᴡᴇʀ💝*' , MessageType.text);
+            return await conn.sendMessage(conn.user.jid, '*SULTHAN ʙᴏᴛ ᴘᴏᴡᴇʀ💝*' , MessageType.text);
         } 
 		while (getGMTh == 21 && getGMTm == 01) {
             const {data} = await axios(ansk)
@@ -201,7 +201,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
             if (config.LANG == 'EN') announce = sken
             if (config.LANG == 'ML') announce = skml
             
-            return await conn.sendMessage(conn.user.jid, '*ᴍᴀᴀʟᴜᴛᴛʏ_ᴠ3 ʙᴏᴛ ᴘᴏᴡᴇʀ💝*' , MessageType.text);
+            return await conn.sendMessage(conn.user.jid, '*SULTHAN ʙᴏᴛ ᴘᴏᴡᴇʀ💝*' , MessageType.text);
         }
     }, 50000);//Thanks to souravkl11 
 
@@ -336,8 +336,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ MAALUTTY_V3 ~______~*' +
-                                    '\n*MAALUTTY ERROR💌' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ SULTHAN~______~*' +
+                                    '\n*SULTHAN ERROR💌' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
                             }
