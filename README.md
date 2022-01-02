@@ -8,11 +8,11 @@
 <a href="#"><img title="SULTAN" src="https://img.shields.io/badge/SULTHAN-BOT-yellowgreen"></a>
 </p>
   <p align="center">
-<a href="https://github.com/user5685"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ABHINAV-blue"></a>
+<a href="https://github.com/SHADOW-HUNTER-ME"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ABHINAV-blue"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/user5685">ABHINAV</a> to make it public
+Project created by <a href="https://github.com/SHADOW-HUNTER-ME">ABHINAV</a> to make it public
     <br>
        | © |
         Reserved |
@@ -36,7 +36,7 @@ Project created by <a href="https://github.com/user5685">ABHINAV</a> to make it 
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/User5685/SULTHAN
+$ git clone https://github.com/SHADOW-HUNTER-ME/SULTHAN
 $ cd MAALUTTY_V3
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -44,7 +44,7 @@ $ node maalutty.js
 ```
 ```js
 CONNECTING TO WHATSAPP
-$ git clone https://github.com/User5685/SULTHAN
+$ git clone https://github.com/SHADOW-HUNTER-ME/SULTHAN
 $ cd MAALUTTY_V3
 $ npm i
 $ node maalutty.js
